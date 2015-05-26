@@ -1,3 +1,6 @@
+ebolaOpenScience_cache/*
+ebolaOpenScience_files/*
+
 # History files
 .Rhistory
 .Rapp.history
